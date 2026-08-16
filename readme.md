@@ -34,26 +34,6 @@ PyTorch/
 
 ---
 
-## 📖 Topics Covered
-
-- ✅ Introduction to PyTorch
-- ✅ Tensor Creation
-- ✅ Tensor Operations
-- ✅ Tensor Indexing & Slicing
-- ✅ Tensor Reshaping
-- ✅ Tensor Broadcasting
-- ✅ Random Tensors
-- ⏳ Automatic Differentiation (Autograd)
-- ⏳ Neural Networks
-- ⏳ Loss Functions
-- ⏳ Optimizers
-- ⏳ Dataset & DataLoader
-- ⏳ Convolutional Neural Networks (CNNs)
-- ⏳ Transfer Learning
-- ⏳ Model Saving & Loading
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 3.x
